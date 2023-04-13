@@ -1,4 +1,4 @@
-👋 Hello, I'm Grant Wittenberg!
+👋 Hello, Grant Wittenberg here!
 
 I am a Software Quality Assurance Engineer and general technology enthusiast. Some of my passions are intuitive user interfaces, dissecting software platforms, and platform infrastructure automation.  
 
